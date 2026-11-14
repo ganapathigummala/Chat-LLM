@@ -1,0 +1,38 @@
+hello how are you
+hello i am fine
+hello what is your name
+my name is gana
+my name is ganapathi
+i am learning python
+i am learning machine learning
+i am learning artificial intelligence
+i am learning android development
+android development is interesting
+android applications are built using kotlin
+kotlin is a programming language
+java is a programming language
+python is a programming language
+machine learning is a field of artificial intelligence
+artificial intelligence is used in many applications
+a computer can process information
+a model learns from data
+a language model learns patterns from text
+a language model predicts the next token
+the model reads the input
+the model predicts the next word
+the model learns from examples
+training changes the model parameters
+more training data can help a model learn better
+hello
+how are you
+i am doing well
+what are you doing
+i am learning
+what is artificial intelligence
+artificial intelligence allows computers to perform tasks
+what is machine learning
+machine learning allows computers to learn from data
+what is python
+python is a programming language
+what is kotlin
+kotlin is used for android development
